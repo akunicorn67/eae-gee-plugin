@@ -1,0 +1,7 @@
+earthengine-api
+boto3
+requests
+awscli
+playwright
+nest-asyncio
+python-dotenv
